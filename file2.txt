@@ -1,2 +1,2 @@
-[master 98034e7] committed modified file2
- 1 file changed, 1 insertion(+)
+[master bb2c8c3] committed modified file2
+ 1 file changed, 2 insertions(+), 1 deletion(-)
