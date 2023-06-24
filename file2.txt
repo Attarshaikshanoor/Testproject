@@ -1,1 +1,2 @@
-edited code line in file2
+[master 98034e7] committed modified file2
+ 1 file changed, 1 insertion(+)
